@@ -2,3 +2,4 @@ inicio do curso de git
 hello 5
 hello 6
 hello 7
+hello 8
